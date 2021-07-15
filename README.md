@@ -8,5 +8,5 @@
 * `git checkout "branchName"` - Move to new branch
 
 ## Branching
-`git branch` - List local branches
-`git branch `
+* `git branch` - List local branches
+* `git branch "branchName"` - Created a new local branch
